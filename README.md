@@ -1,1 +1,3 @@
 # Yagami
+
+sintonia dinâmica
